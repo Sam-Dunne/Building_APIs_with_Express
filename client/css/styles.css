@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(224, 224, 224);
+}
+
+.card,
+form {
+    background-color: rgb(80, 191, 255) !important;
+}
+
+form {
+   
+    min-height: fit-content;
+    min-width: fit-content;
+}
+
+input {
+    height: 7vh;
+    width: 25vw;
+    margin: auto !important;
+}
